@@ -82,5 +82,5 @@ java FileName
 
 🤝 Connect with Me
 📧 Email: jayasriramnani9@gmail.com
-💼 LinkedIn: Linkedin.com/jayyasrirams
-💻 GitHub: github.com/Jayasriramsankarasetty/DSA-Java-Journey
+💼 LinkedIn: www.linkedin.com/in/jayasrirams
+💻 GitHub: https://github.com/Jayasriramsankarasetty/DSA-Java-Journey
