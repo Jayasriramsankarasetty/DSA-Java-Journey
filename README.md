@@ -8,7 +8,6 @@ This repository contains my daily practice solutions for Data Structures and Alg
 ## 🚀 Goals
 
 - Build strong problem-solving skills
-- Master DSA topics for coding interviews
 - Track progress through daily commits
 - Improve clean coding and Git proficiency
 
@@ -30,12 +29,6 @@ DSA/
 │ ├── 217_Contains_Duplicate.java
 │
 └── ...
-
-Each file is named as:  
-`<ProblemNumber>_<ProblemName>.java`  
-and includes the LeetCode link + problem description in comments.
-
----
 
 ## 📌 Topics Covered
 
@@ -74,8 +67,8 @@ and includes the LeetCode link + problem description in comments.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Jayasriramsankarasetty/leetcode-java-dsa.git
-   cd leetcode-java-dsa
+   git clone https://github.com/Jayasriramsankarasetty/DSA-Java-Journey.git
+   cd DSA-Java-journey
 Navigate to topic folder and run any .java file using:
 javac FileName.java
 java FileName
