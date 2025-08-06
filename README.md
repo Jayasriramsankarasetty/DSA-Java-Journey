@@ -29,10 +29,9 @@ DSA/
 
 - ✅ Arrays
 - ✅ Strings
-- ✅ Hashing
+- ✅ Recursion
 - 🔜 Two Pointers
 - 🔜 Sliding Window
-- 🔜 Recursion
 - 🔜 Trees
 - 🔜 Graphs
 - 🔜 Dynamic Programming
