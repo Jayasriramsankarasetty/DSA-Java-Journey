@@ -1,7 +1,7 @@
 # DSA-Java-Journey
 # 📘 LeetCode DSA Practice in Java
 
-This repository contains my daily practice solutions for Data Structures and Algorithms from [LeetCode](https://leetcode.com), solved in Java. Problems are categorized by topic for easy reference and revision.
+This repository contains my daily solutions for Data Structures and Algorithms from [LeetCode](https://leetcode.com), solved in Java. Problems are categorized by topic for easy reference and revision.
 
 ---
 
