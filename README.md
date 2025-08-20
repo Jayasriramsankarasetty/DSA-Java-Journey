@@ -7,7 +7,7 @@ This repository contains my daily solutions for Data Structures and Algorithms f
 
 ## 🚀 Goals
 
-- Build strong problem-solving skills
+- Build strong problem-solving skills 
 - Track progress through daily commits
 - Improve clean coding and Git proficiency
 
@@ -22,6 +22,8 @@ DSA/
 ├── Strings/
 │
 ├── Recursion/
+│
+└── Stacks and Queues/
 │
 └── ...
 
